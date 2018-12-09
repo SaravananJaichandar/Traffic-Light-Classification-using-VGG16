@@ -1,4 +1,4 @@
-# # Traffic-Light-Classification-using-VGG16
+ # Traffic-Light-Classification-using-VGG16
 Classifiying the traffic light signals using the pre-trained model VGG16 using Transfer Learning
 
 In this project, VGG16 model is used for classifying the traffic light signal images using transfer learning.
